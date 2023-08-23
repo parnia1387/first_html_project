@@ -15,6 +15,11 @@ body
     float: right;
     color: #fff;
 }
+.logo span
+{
+    position: absolute;
+    margin: 1.55%;
+}
 .date,.search
 {
     text-align: center;
