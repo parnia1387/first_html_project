@@ -41,7 +41,7 @@ li {
 }
 li a {
     color: #fff;
-    text-decoration: nine;
+    text-decoration: none;
 }
 li:hover{
     background-color: #fff;
@@ -64,7 +64,7 @@ li:hover a {
 .submenu a{ 
     color: #000;
     display: block;
-    padding: 8px;
+    padding: 10px;
 }
 .submenu a:hover{
     background-color: #000;
@@ -83,8 +83,23 @@ li:hover a {
 .cantent
 {
     width: 100%;
-    height: 700px;
+    height: 1550px;
     background-color: #fff;
+}
+.terms{
+    height: 500px;
+    width: 100%;
+    background-color: #ff0000;
+}
+.masters{
+    height: 500px;
+    width: 100%;
+    background-color: #0000ff;
+}
+.students{
+    width: 100%;
+    height: 500px;
+    background-color: #008000;
 }
 .footer
 {
